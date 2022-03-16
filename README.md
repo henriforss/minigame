@@ -1,2 +1,3 @@
 # minigame
-Simple game made for programming course.
+Simple game made with pygame for programming course.
+
